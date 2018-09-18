@@ -24,6 +24,17 @@
 //  IN THE SOFTWARE.
 //
 
+#import <UIKit/UIKit.h>
+
+//! Project version number for Underscore.
+FOUNDATION_EXPORT double UnderscoreVersionNumber;
+
+//! Project version string for Underscore.
+FOUNDATION_EXPORT const unsigned char UnderscoreVersionString[];
+
+// In this header, you should import all the public headers of your framework using statements like #import <Underscore/PublicHeader.h>
+
+
 #import <Foundation/Foundation.h>
 
 #import "USConstants.h"

@@ -23,9 +23,9 @@
 		B9ED671221514C6F008C30E4 /* USArrayWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 54903D12155FF779006854CB /* USArrayWrapper.m */; };
 		B9ED671321514C6F008C30E4 /* USDictionaryWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 54996B2215614B220016BE94 /* USDictionaryWrapper.m */; };
 		B9ED671421514C82008C30E4 /* Underscore.h in Headers */ = {isa = PBXBuildFile; fileRef = B9ED6707215149FB008C30E4 /* Underscore.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B9ED671521514C9D008C30E4 /* Underscore+Times.h in Headers */ = {isa = PBXBuildFile; fileRef = 437EE9781AC9423D00BBB61A /* Underscore+Times.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B9ED671621514C9D008C30E4 /* Underscore+Strings.h in Headers */ = {isa = PBXBuildFile; fileRef = BCFADFEF1837E77000A81EB5 /* Underscore+Strings.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B9ED671721514C9D008C30E4 /* USStringWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = BCFADFF11837E77000A81EB5 /* USStringWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B9ED671521514C9D008C30E4 /* Underscore+Times.h in Headers */ = {isa = PBXBuildFile; fileRef = 437EE9781AC9423D00BBB61A /* Underscore+Times.h */; };
+		B9ED671621514C9D008C30E4 /* Underscore+Strings.h in Headers */ = {isa = PBXBuildFile; fileRef = BCFADFEF1837E77000A81EB5 /* Underscore+Strings.h */; };
+		B9ED671721514C9D008C30E4 /* USStringWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = BCFADFF11837E77000A81EB5 /* USStringWrapper.h */; };
 		B9ED671821514C9D008C30E4 /* Underscore+Functional.h in Headers */ = {isa = PBXBuildFile; fileRef = 547C44D915B30ADC004698B8 /* Underscore+Functional.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B9ED671921514C9D008C30E4 /* USArrayWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 54903D11155FF779006854CB /* USArrayWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B9ED671A21514C9D008C30E4 /* USDictionaryWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 54996B2115614B220016BE94 /* USDictionaryWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -227,13 +227,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9ED671421514C82008C30E4 /* Underscore.h in Headers */,
-				B9ED671521514C9D008C30E4 /* Underscore+Times.h in Headers */,
-				B9ED671621514C9D008C30E4 /* Underscore+Strings.h in Headers */,
-				B9ED671721514C9D008C30E4 /* USStringWrapper.h in Headers */,
 				B9ED671821514C9D008C30E4 /* Underscore+Functional.h in Headers */,
 				B9ED671921514C9D008C30E4 /* USArrayWrapper.h in Headers */,
 				B9ED671A21514C9D008C30E4 /* USDictionaryWrapper.h in Headers */,
 				B9ED671B21514C9D008C30E4 /* USConstants.h in Headers */,
+				B9ED671521514C9D008C30E4 /* Underscore+Times.h in Headers */,
+				B9ED671621514C9D008C30E4 /* Underscore+Strings.h in Headers */,
+				B9ED671721514C9D008C30E4 /* USStringWrapper.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
